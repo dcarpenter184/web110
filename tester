@@ -1,0 +1,5 @@
+def cupsToTablespoons():
+    cupsNeeded = input("Enter number of cups: ")
+    tblsNeeded = (float(cupsNeeded) * 16)
+    print(tblsNeeded)
+
